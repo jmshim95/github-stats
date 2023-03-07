@@ -3,7 +3,7 @@
 
 <br/>
 
-![](https://raw.githubusercontent.com/jmshim95/github-stats/output/generated/languages.svg)
+![](https://raw.githubusercontent.com/jmshim95/github-stats/output/generated/languages.svg) 
 
 
 
@@ -28,4 +28,5 @@
 
 </a>
 
+<br/>
 <br/>
